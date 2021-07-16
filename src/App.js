@@ -11,13 +11,13 @@ import { useCollectionData } from 'react-firebase-hooks/firestore';
 
 firebase.initializeApp({
   // your config
-  apiKey: "AIzaSyCtMIZl5L-XO2YH6DaLGcq-b6xf3r8UZ3M",
-  authDomain: "superchat-app-61555.firebaseapp.com",
-  projectId: "superchat-app-61555",
-  storageBucket: "superchat-app-61555.appspot.com",
-  messagingSenderId: "482806769338",
-  appId: "1:482806769338:web:198cf2060400ab72f24483",
-  measurementId: "G-EM19JRVVDE"
+  apiKey: "AIzaSyDRgzG_ckbW4Uyd4UjkXzG5uUoz2DBz6Ms",
+  authDomain: "react-chat-516bd.firebaseapp.com",
+  projectId: "react-chat-516bd",
+  storageBucket: "react-chat-516bd.appspot.com",
+  messagingSenderId: "632490602220",
+  appId: "1:632490602220:web:c64cff1cde05dd9cc1bfc9",
+  measurementId: "G-QJM41VK0FF"
 })
 
 const auth = firebase.auth();
